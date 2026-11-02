@@ -24,7 +24,7 @@ Data Storage: Local CSV files using Java File I/O
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/workout-tracker.git
+git clone https://github.com/Triambak1109/workout-tracker.git
 
 Navigate into the project directory:
 
@@ -41,6 +41,7 @@ Run Main.java to start the application.
 To start Workout Tracker, navigate to the project directory and run:
 
 javac src/Main.java
+
 java -cp src Main
 
 Once launched, follow the instructions displayed in the terminal to create a workout schedule, view daily workouts, record completed workouts, and check progress.
