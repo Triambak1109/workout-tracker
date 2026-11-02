@@ -9,7 +9,7 @@ Maintaining a consistent exercise routine can be difficult without a clear sched
 ## How it works 
 
 Workout Tracker allows users to create a personalized 7-day workout schedule and view the workout planned for the current day. Users can mark workouts as completed, track their workout streaks, and view their weekly statistics. The application saves workout schedules and sends reminders to the users daily for the workout that they must complete. 
-
+![System Flowchart](docs/System-flowchart.png)
 ## Tech Stack
 
 Language: Java
