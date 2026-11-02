@@ -4,11 +4,11 @@ A Java application that helps users stay consistent with their exercise routines
 
 ## The Problem
 
-Maintaining a consistent exercise routine can be difficult without a clear schedule or a way to monitor progress. People may forget planned workouts, lose track of completed sessions, or struggle to stay motivated over time. I built Workout Tracker to provide a simple way to organize workouts, track consistency, and encourage users to maintain an active routine.
+Maintaining a consistent exercise routine can be difficult without a clear schedule. People may forget planned workouts, lose track of completed sessions, or struggle to stay motivated over time. I built Workout tracker to provide a simple way to organize workouts, track consistency, and encourage users to maintain an active routine.
 
 ## How it works 
 
-Workout Tracker allows users to create a personalized 7-day workout schedule and view the workout planned for the current day. Users can mark workouts as completed, track their workout streaks, and view their weekly completion statistics. The application saves workout schedules and progress locally so that information is available when the program is reopened.
+Workout Tracker allows users to create a personalized 7-day workout schedule and view the workout planned for the current day. Users can mark workouts as completed, track their workout streaks, and view their weekly statistics. The application saves workout schedules and sends reminders to the users daily for the workout that they must complete. 
 
 ## Tech Stack
 
@@ -44,9 +44,8 @@ javac src/Main.java
 
 java -cp src Main
 
-Once launched, follow the instructions displayed in the terminal to create a workout schedule, view daily workouts, record completed workouts, and check progress.
-
-The application uses a menu-based interface, allowing users to select the functionality they want to access.
+Once launched, the user will be able to track workouts and get reminders to stay consistent.
+The application uses a minimalistic interface that allows users to create plans and follow them easier.
 
 ## Roadmap
 
